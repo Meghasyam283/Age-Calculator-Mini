@@ -1,1 +1,3 @@
-# Age-Calculator
+Age-Calculator
+
+![age calculator](image.png)
